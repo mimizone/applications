@@ -339,7 +339,7 @@ resources:
     type: OS::Cinder::Volume
     deletion_policy: Retain
     properties:
-      size: 1500 
+      size: 1500
       volume_type: performant
 
   volume_attachment:
