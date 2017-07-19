@@ -40,6 +40,7 @@ parameters:
       - allowed_values:
           - n1.cw.standard-2
           - n1.cw.standard-4
+          - n1.cw.highmem-4
           - n1.cw.standard-8
           - n1.cw.standard-16
   node_count:
